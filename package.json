@@ -1,0 +1,20 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning Node.js",
+  "homepage": "https://github.com/devARcoder/Backend-Course-by-Jonas#readme",
+  "bugs": {
+    "url": "https://github.com/devARcoder/Backend-Course-by-Jonas/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devARcoder/Backend-Course-by-Jonas.git"
+  },
+  "license": "ISC",
+  "author": "Abdur Razzaq",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
